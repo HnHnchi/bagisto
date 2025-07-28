@@ -1,0 +1,5 @@
+{
+  "name": "PHP Workspace",
+  "image": "mcr.microsoft.com/devcontainers/php:8.2",
+  "postCreateCommand": "composer install"
+}
